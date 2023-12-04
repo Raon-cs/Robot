@@ -92,7 +92,7 @@
 - 내용 추가 필요
 
 ## 🏹 시스템 아키텍처
-![image_waifu2x_art_noise2](/uploads/072de5b4fac1dc34f373b03481c13375/image_waifu2x_art_noise2.png)
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/d5c6aea3-6e1b-4a85-8b96-9aba9f82f2d7" />
 ---
 
 
@@ -150,64 +150,64 @@
 ---
 
 ### 최초 화면
-<img src="/uploads/e62cbd16affe7609ac29adf39b21937e/최초화면.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/04994d29-d26f-468f-b150-47c52fe7b0db" width="200" height="400"/>
 
 ### 회원가입
-<img src="/uploads/5fe312960ebad01303f53b1d83344888/회원가입_1_.jpg" width="200" height="400"/>
-<img src="/uploads/725e134f77af067431d7f5a36bb3f7d4/회원가입_2_.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/495e2792-dad9-4a27-8261-522a9155aa98" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/f3b51524-c7d3-49bf-a3d0-8414d432aebb" width="200" height="400"/>
 
 
 ### 로그인
-<img src="/uploads/74d942abe1ea14874367d8afef202943/로그인.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/7b6c1bce-5888-4eeb-8883-5c659cda1541" width="200" height="400"/>
 
 ### 메인페이지(쓰레기통 비우기 미신청)
-<img src="/uploads/a7f2fb8efab333c007087bb78a1d73c5/메인_미신청_.PNG" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/3e4109bd-926b-4d1b-885d-5de0986f878d" width="200" height="400"/>
 
 ### 메인페이지(쓰레기통 비우기 신청시)
-<img src="/uploads/820f4209fcd54adeea8d306106551d42/메인_신청_.PNG" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/68f04047-44c8-4bae-a717-74f5d8570345" width="200" height="400"/>
 
 ### 회의실페이지(미신청)
-<img src="/uploads/70f41bed9e0f0ff7047a0e64ba3d1f53/회의_미신청_.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/1d30bd04-f7c9-4a31-84f2-24ac3350570d" width="200" height="400"/>
 
 ### 회의실페이지(회의실 신청)
-<img src="/uploads/9b23074c92d752b0320e8c64a41ba2b0/회의_신청중_.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/ed16ccab-acfd-466a-a387-5c79068ba0fb" width="200" height="400"/>
 
 ### 회의실페이지(신청 완료)
-<img src="/uploads/e77d5aabe743207531be82520832a27b/회의_신청완료_.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/a2792e1f-cd7d-4c45-a6c0-616506d501a2" width="200" height="400"/>
 
 ### 소통페이지
-<img src="/uploads/bedccdcccea0e7ad495dd1673fe65edf/소통.jpg" width="200" height="400"/>
-<img src="/uploads/729c26b68810bc642caf5bbca690fff7/소통_2_.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/a96ddcf8-4fe6-4855-98f0-51041e1c68a3" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/3191e084-9152-4549-89dd-8962d3058586" width="200" height="400"/>
 
 ### 시스템 알림 페이지
-<img src="/uploads/fdc15f1e94eb9616606da75ba257b8d9/시스템_알람_페이지.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/56d7fb0c-30a7-457a-91b2-7b4c9f24a0dd" width="200" height="400"/>
 
 ### 모바일 알림
-<img src="/uploads/f41500a2b4a9c2e61058bae14e2ad693/알림.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/6be16966-1bfb-46ac-b3bb-784f7c7ce758" width="200" height="400"/>
 
 ### 투표 페이지(진행중)
-<img src="/uploads/dac10bcfbf62f5bc2880408a6eeb6ec0/투표_진행중_.PNG" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/7aebcb39-4215-4025-a155-2f576931d0c0" width="200" height="400"/>
 
 ### 투표 페이지(투표 종료/완료)
-<img src="/uploads/37522a613b5c3214dbabbf84fa57b665/투표_종료_.PNG" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/bf40c19b-0ea2-425d-beab-821b83c16ae9" width="200" height="400"/>
 
 ### 마이페이지(메인)
-<img src="/uploads/aaf08f2ce178271a1e3a297a6fc2bea1/마이페이지.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/42f75a16-54fc-4641-8261-6be8718345f9" width="200" height="400"/>
 
 ### 마이페이지(비밀번호 변경)
-<img src="/uploads/3fdeb3790d75c5641eca18d7e009206e/마이페이지_비밀번호_변경_.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/653969b0-7024-473d-9a99-f9418f10d1ab" width="200" height="400"/>
 
 ### 마이페이지(닉네임 변경)
-<img src="/uploads/53755b0f713dd53840f06d18487c5fb8/마이페이지_닉네임_변경_.jpg" width="200" height="400"/>
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/fb6916ae-dae9-40cb-99d0-603d0437b196" width="200" height="400"/>
 
 ## 🖥️ 화면 설계서
-![화면설계서](/uploads/d8511cc349965a890581e93de2393243/화면설계서.PNG)
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/9be38f89-9223-4462-bb29-3e2aefd8e2da"/>
 ---
 
 ## ⚙️ ERD
-![ERD](/uploads/e221ff329e64b382a02851bd1e5f23e1/ERD.PNG)
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/7cb0425e-a1e8-4289-9ba3-2b9a1e5b46d9"/>
 ---
 
 ## ⚙️ ROS 플로우 차트
-![ROS_flowchart](/uploads/478009895a9d93a8b1e4bb19c73e015d/ROS_flowchart.png)
+<img src="https://github.com/Raon-cs/Robot/assets/108639467/42e4895d-734a-4428-8c68-96400b2e1d81"/>
 ---
